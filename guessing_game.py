@@ -6,7 +6,7 @@ Guessing Game. The program will do the following:
 4. Let the user guess until they've figured it out - print number of guesses
 5. Ask user to start new game or exit
 """
-# Test
+
 
 from time import sleep
 from random import randint
